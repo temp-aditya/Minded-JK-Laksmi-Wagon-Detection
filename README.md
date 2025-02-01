@@ -54,9 +54,7 @@ pip install opencv-python torch torchvision detectron2 tensorflow numpy matplotl
 ```
 
 ## Usage
-```sh
-python main.py --video_path "path_to_video.mp4"
-```
+Run cells in final.ipynb
 
 ## Output
 ### For Loaded Wagons:
