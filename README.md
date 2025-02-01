@@ -67,5 +67,8 @@ python main.py --video_path "path_to_video.mp4"
 - Generates a PDF report with wagon numbers and damage details.
 
 ## Authors
-Developed by [Your Name/Team]  
-Contact: [Your Email/Repo Issues]
+- Gnanendra Naidu N
+- Aditya Ranjan
+- Bhavya Mashru
+- Vikas Sanchaniya
+- Priyanshi Shah
