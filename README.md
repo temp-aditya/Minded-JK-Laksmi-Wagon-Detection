@@ -35,7 +35,7 @@ This project processes rail wagon videos to analyze their status. It determines 
 ![](images/4.webp)
 
 <p float="left">
-  <img src="images/5.webp" width="45%" />
+  <img src="images/9.webp" width="45%" />
   <img src="images/8.webp" width="45%" />
 </p>
 
